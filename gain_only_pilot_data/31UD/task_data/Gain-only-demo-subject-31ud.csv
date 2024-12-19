@@ -1,0 +1,2 @@
+subjectID, age, gender, nationality, exp_start_time, browser, browser_version, width, height, vsync_rate, os
+31ud,35,male,Belgium,2024-12-3 9:27:51,chrome,131.0.0,1536,826,59.99,Windows 10

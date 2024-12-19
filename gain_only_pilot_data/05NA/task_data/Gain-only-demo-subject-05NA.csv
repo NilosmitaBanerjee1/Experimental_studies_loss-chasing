@@ -1,0 +1,2 @@
+subjectID, age, gender, nationality, exp_start_time, browser, browser_version, width, height, vsync_rate, os
+05NA,19,female,Belgian,2024-11-30 7:44:12,chrome,131.0.0,2560,1352,60,Mac OS
